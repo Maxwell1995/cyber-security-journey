@@ -117,6 +117,9 @@ To reinforce my Linux skills, I completed the first 12 levels of the Bandit warg
 **1. Linux Navigation & File Management:**
 
 
+
+
+
 **2. User Management & Groups:**
 *[Screenshot of `adduser`, `id`, `groupadd`]*
 
