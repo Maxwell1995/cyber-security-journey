@@ -116,18 +116,27 @@ To reinforce my Linux skills, I completed the first 12 levels of the Bandit warg
 
 **1. Linux Navigation & File Management:**
 
+<img width="959" height="477" alt="image" src="https://github.com/user-attachments/assets/1a32d25e-f6a7-4756-b406-d2d7e98750f4" />
 
 
 
 
 **2. User Management & Groups:**
-*[Screenshot of `adduser`, `id`, `groupadd`]*
+<img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/3c8ba847-b38b-4912-80fa-0b671260c53f" />
+
 
 **3. Octal & Symbolic Permissions:**
-*[Screenshot of `chmod 755` or `chmod u+x`]*
 
-**4. Package Management & System Upgrades:**
-*[Screenshot of `df -h` or `htop`]*
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/65dddb1c-277d-45dc-84cd-8b7130fb603c" />
+<img width="959" height="353" alt="image" src="https://github.com/user-attachments/assets/be05e2c3-03ee-421e-b447-26007e93b73e" />
+
+
+
+**4. Package Management & System Upgrades
+<img width="959" height="473" alt="image" src="https://github.com/user-attachments/assets/b6f821cf-3e4b-4cdd-b090-2772e5ccb908" />
+<img width="959" height="484" alt="image" src="https://github.com/user-attachments/assets/83bb2452-d84d-483f-8618-86cf7d53824b" />
+
+
 
 **5. Systemctl Services:**
 *[Screenshot of `systemctl status ssh`]*
